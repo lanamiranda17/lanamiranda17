@@ -34,8 +34,7 @@ Atualmente estou aprimorando minhas habilidades em **C++** e **Python**, e busca
 
 ### 🌟 Minhas linguagens no GitHub
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&theme=radical" alt="Top Languages" />
 </p>
 
 ---
