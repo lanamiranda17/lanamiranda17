@@ -24,11 +24,13 @@ Atualmente estou aprimorando minhas habilidades em **C++** e **Python**, e busca
 
 ---
 
-### 🌈 Projetos
+### 🌈 Projetos em destaque
 
-- **[Sequence Set](https://github.com/lanamiranda17/Projeto---Sequence-Set)**: Implementação de Sequence Set com base de dados prévia em C++.
-- **[Sistema de Cadastro](https://github.com/lanamiranda17/Projeto-Sistema-de-Cadastro)**: Sistema de cadastro em C++ com base de dados dos cursos da USP.
-- **[Jogo Pong](-)**: Implementação de jogo pong em Verilog com VGA.
+- **[📑 Sequence Set](https://github.com/lanamiranda17/Projeto---Sequence-Set)**: Implementação de Sequence Set com base de dados prévia em C++.
+- **[🗃️ Sistema de Cadastro](https://github.com/lanamiranda17/Projeto-Sistema-de-Cadastro)**: Sistema de cadastro em C++ com base de dados dos cursos da USP.
+- **[🥎 Jogo Pong](-)**: Implementação de jogo pong em Verilog com VGA.
+- **[🐍 Jogo da Cobrinha](https://github.com/lanamiranda17/Jogo-da-Cobrinha)**: Implementação o jogo da cobrinha em Python.
+
 
 ---
 
