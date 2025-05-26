@@ -12,14 +12,19 @@
 
 ### Sobre mim 👩‍💻
 
-Sou estudante de **Ciência da Computação na UFLA**.
-Atualmente estou aprimorando minhas habilidades em **C++**, **Python**, **HTML**, **CSS** e **JavaScript**, e buscando expandir meus conhecimentos na área de programação.
+Sou estudante de **Ciência da Computação na UFLA**.  
+Atualmente estou aprimorando minhas habilidades em **C++**, **Python**, **HTML**, **CSS**, **JavaScript** e **React**, buscando expandir meus conhecimentos na área de programação.
 
 - 🌟 Nível em C++: **Intermediário**
 - 🐍 Nível em Python: **Básico**
 - 🌐 Nível em HTML/CSS/JS: **Básico a Intermediário**
+- ⚛️ Nível em React: **Básico a Intermediário**
+
+
+
 - 💡 Interesses: Desenvolvimento de software, algoritmos, otimização, front-end.
-- ✉️ Contato: www.linkedin.com/in/lana-miranda
+- 🗣️ Idiomas: Português (nativo), Inglês (avançado)
+- ✉️ Contato: [www.linkedin.com/in/lana-miranda](https://www.linkedin.com/in/lana-miranda)
 
 ---
 
@@ -32,11 +37,13 @@ Atualmente estou aprimorando minhas habilidades em **C++**, **Python**, **HTML**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ### 🌈 Projetos em destaque
 
+- **⚡ [Zeus](https://github.com/lanamiranda17/Front_ZEUS_CompJr)**: Aplicação front-end de sistema de gerenciamento de uma empresa júnior responsiva desenvolvida em React, HTML e CSS (PS da CompJR).
 - **📑 [Sequence Set](https://github.com/lanamiranda17/Projeto---Sequence-Set)**: Implementação de Sequence Set com base de dados prévia em C++.
 - **🗃️ [Sistema de Cadastro](https://github.com/lanamiranda17/Projeto-Sistema-de-Cadastro)**: Sistema de cadastro em C++ com base de dados dos cursos da USP.
 - **🥎 [Jogo Pong](-)**: Implementação de jogo pong em Verilog com VGA.
@@ -44,8 +51,8 @@ Atualmente estou aprimorando minhas habilidades em **C++**, **Python**, **HTML**
 
 ---
 
-### 🌟 Minhas linguagens no GitHub
+### 📊 Estatísticas GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&theme=radical" alt="Top Languages" />
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=lanamiranda17&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&layout=compact&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanamiranda17&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
