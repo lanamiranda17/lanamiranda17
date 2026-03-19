@@ -13,12 +13,12 @@
 
 ### 👩‍💻 Sobre mim 
 
-Sou estudante de **Ciência da Computação na UFLA** (4º período).
+Sou estudante de **Ciência da Computação na UFLA** (5º período).
 
 Atualmente estou focada em aprimorar minhas habilidades em **Java e Spring Boot**, com o objetivo de me tornar uma **desenvolvedora backend** completa.  
 Também tenho experiência com **HTML**, **CSS**, **JavaScript** e **React**, o que me ajuda a compreender bem o ecossistema full stack.
 
-- ☕ **Java / Spring Boot**: Iniciante  
+- ☕ **Java / Spring Boot**: Intermediário  
 - 🐍 **Python**: Básico  
 - 🌐 **HTML / CSS / JS**: Intermediário  
 - ⚛️ **React**: Básico a Intermediário  
@@ -60,8 +60,4 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript** e **React**, o 
 ---
 
 ### 📊 Estatísticas GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lanamiranda17&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&layout=compact&theme=radical)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanamiranda17&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
