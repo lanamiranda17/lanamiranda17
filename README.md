@@ -1,63 +1,124 @@
-## Bem-vindo(a)! 💻
+# Hey, I'm Lana! ✦
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&background=FFFFFF00&center=false&vCenter=false&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focada+em+Java,+Spring+Boot+e+Backend!)](https://git.io/typing-svg)
+### I build software to solve complex problems.
 
+**Computer Science @ UFLA**
+Backend Development • Operations Research • Artificial Intelligence
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=750&height=40&lines=Turning+complex+problems+into+practical+solutions.;Exploring+algorithms%2C+optimization+and+AI.;Building+software+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanamiranda17/lanamiranda17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanamiranda17/lanamiranda17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lanamiranda17/lanamiranda17/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lanamiranda17/lanamiranda17/output/github-snake.svg" />
 </picture>
 
 ---
 
-### 👩‍💻 Sobre mim 
+### 👩‍💻 About Me
 
-Sou estudante de **Ciência da Computação na UFLA** (5º período).
+I'm a **Computer Science undergraduate at the Federal University of Lavras (UFLA), Brazil**, working at the intersection of **software engineering, mathematical optimization and artificial intelligence**.
 
-Atualmente estou focada em aprimorar minhas habilidades em **Java e Spring Boot**, com o objetivo de me tornar uma **desenvolvedora backend** completa.  
-Também tenho experiência com **HTML**, **CSS**, **JavaScript** e **React**, o que me ajuda a compreender bem o ecossistema full stack.
+I enjoy building applications, exploring algorithms and transforming complex problems into practical solutions. My experience ranges from backend development and collaborative software projects to scientific research and combinatorial optimization.
 
-- ☕ **Java / Spring Boot**: Intermediário  
-- 🐍 **Python**: Básico  
-- 🌐 **HTML / CSS / JS**: Intermediário  
-- ⚛️ **React**: Básico a Intermediário  
-- 💾 **Banco de Dados (MySQL)**: Básico
+- 💻 **Software Engineering:** backend development, REST APIs, relational databases and software architecture.
+- 🧠 **Operations Research:** mathematical programming, heuristics, combinatorial optimization and computational experiments.
+- 🤖 **Artificial Intelligence:** machine learning, LLM applications and multi-agent systems.
+- 🔬 **Research:** systematic literature reviews and optimization applied to real-world problems.
 
 ---
 
-- 🧠 **Interesses:** Desenvolvimento backend, APIs REST, frontend e otimização de sistemas  
-- 🗣️ **Idiomas:** Português (nativo) | Inglês (avançado)  
-- ✉️ **Contato:** [linkedin.com/in/lana-miranda](https://www.linkedin.com/in/lana-miranda)
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Databases**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI, Optimization & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![PuLP](https://img.shields.io/badge/PuLP-Optimization-3776AB?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Frontend & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Featured Projects
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+A selection of projects involving software engineering, mathematical optimization and artificial intelligence.
+
+#### Implemented Projects
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🤖 **[Multi-Agent Study Assistant](https://github.com/lanamiranda17/multi-agent-study-assistant)** | Personalized study assistant with Tutor and Evaluator agents orchestrated through LangGraph. | Python, LangGraph, LangChain |
+| 📅 **[Student Class Allocation Optimizer](https://github.com/lanamiranda17/student-class-allocation-optimizer)** | Mathematical optimization desktop application developed during the UniSoma 2026 hackathon. | Python, PuLP, PySide6 |
+| ☕ **[Terroir E-commerce](https://github.com/lanamiranda17/terroir-coffee-ecommerce)** | Specialty coffee e-commerce application with authentication, shopping cart and product management. | Java, Spring Boot, React, PostgreSQL |
+| 🗺️ **[CARP Routing Heuristics](https://github.com/lanamiranda17/carp-routing-heuristics)** | Heuristic approaches to the Capacitated Arc Routing Problem using graph algorithms and local search. | Python, Combinatorial Optimization |
+
+#### 🔨 Currently in Development
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🏥 **[GlicoAcesso](https://github.com/ArthurDp78/GlicoAcesso)** | Collaborative healthcare platform project, currently in the architecture and planning stage. | Software Architecture, API Design, Microservices |
+| 🏫 **[Campus Reservas](https://github.com/mvk999/progWeb-campus-reservas)** | University resource reservation system with backend authentication, permissions, scheduling constraints and tests. | Python, Django, SQLite |
+
+**More projects**
+
+- ⚙️ [**Compiler Design**](https://github.com/lanamiranda17/compiler-design-flex-bison) — Compiler with lexical, syntactic and semantic analysis, and intermediate code generation.
+- 📊 [**ZEUS Management**](https://github.com/lanamiranda17/zeus-management-compjr) — React frontend prototype for internal organizational management.
+- 💻 [**Node.js Client API**](https://github.com/lanamiranda17/nodejs-client-api) — REST API developed during a backend workshop.
+
+*Several projects were developed collaboratively. Contributors and original repositories are credited in their respective READMEs.*
 
 ---
 
-### 🌟 Projetos em destaque
+### 🔬 Areas of Interest
 
-- **⚙️ [API de Produtos](https://github.com/lanamiranda17/demo)** – CRUD completo em **Spring Boot** com **JPA**, **H2 Database** e boas práticas de arquitetura.  
-- **⚡ [Zeus](https://github.com/lanamiranda17/Front_ZEUS_CompJr)** – Sistema de gerenciamento interno da Comp Júnior com **React**, **HTML** e **CSS**, totalmente responsivo.  
-- **📑 [Sequence Set](https://github.com/lanamiranda17/Projeto---Sequence-Set)** – Implementação de **Sequence Set** em **C++** com manipulação de arquivos binários.  
-- **🐍 [Jogo da Cobrinha](https://github.com/lanamiranda17/Jogo-da-Cobrinha)** – Versão do clássico **Snake Game** feita em **Python**.  
-- **🔌 [Sistema de Cadastro](https://github.com/lanamiranda17/Projeto-Sistema-de-Cadastro)** – Projeto em **C++** com base de dados real e funcionalidades de consulta.
+```text
+Software Engineering
+  ├── Backend Development
+  ├── APIs & Databases
+  └── Software Architecture
+
+Operations Research
+  ├── Mathematical Programming
+  ├── Combinatorial Optimization
+  └── Heuristics & Metaheuristics
+
+Artificial Intelligence
+  ├── Machine Learning
+  ├── LLM Applications
+  └── Multi-Agent Systems
+```
+
 
 ---
 
-### 📊 Estatísticas GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanamiranda17&layout=compact&theme=radical)
+### 📬 Let's Connect
+
+Interested in software engineering, optimization or AI? Feel free to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lana_Miranda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-miranda/)
+
+*Turning complex problems into practical solutions.*
